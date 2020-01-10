@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git has a mutable index called stage.
 Git has changed.
 push origin master
+Creating a new branch is quick.
